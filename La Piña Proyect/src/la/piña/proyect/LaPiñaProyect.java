@@ -16,6 +16,7 @@ public class LaPiñaProyect {
      */
     public static void main(String[] args) {
         System.out.println("PAYASOS!!");
+        System.out.println("Modifico el proyecto del alumno modelo.");
     }
     
 }
